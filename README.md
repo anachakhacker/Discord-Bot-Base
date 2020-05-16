@@ -1,2 +1,9 @@
-# Discord-Bot-Base
-Base to run Discord Chat bot
+# Discord_Bot - AnachakSH
+
+Discord bot Room Anachak
+
+install:
+npm install
+
+Run bot:
+node index.js
