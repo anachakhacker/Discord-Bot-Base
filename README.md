@@ -2,15 +2,15 @@
 
 Discord bot Room Anachak
 
-install:
+1. install:
 npm install
 
-insert you Token:
+2. insert you Token:
 create you discord app and insert your token in botconfig.json
 https://discord.com/developers/applications
 
-add you bot into server:
+3. add you bot into server:
 discordapp.com/oauth2/authorize?client_id=<you ID bot>&scope=bot
 
-Run bot:
+4. Run bot:
 node index.js
